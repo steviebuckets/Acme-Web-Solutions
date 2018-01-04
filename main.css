@@ -82,7 +82,7 @@ h1, h2, h3 {
 
 /* Section B */
 
-/*#section-b {
+#section-b {
 	padding: 2em 1em 1em;
 }
 
@@ -100,4 +100,12 @@ h1, h2, h3 {
 
 .card-content {
 	padding: 1.5em;
-}*/
+}
+
+/* Section C */
+
+#section-c {
+	background: #fff;
+	color: #333;
+	padding: 2em;
+}
