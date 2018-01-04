@@ -1,0 +1,10 @@
+{
+	"name": "Steve Martin",
+	"email": "steviebuckets33@gmail.com",
+	"phoneNumber": "626 373 3676",
+	"resume": "Lorem Ipsum blah blah"
+}
+
+// var steve = {
+// 	"name": "steve martin"
+// }
